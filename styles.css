@@ -92,3 +92,7 @@ body {
   font-size: 1.1rem;
   margin-top: 2rem;
 }
+
+.cart:hover {
+  background-color: hsl(212, 21%, 14%);
+}
